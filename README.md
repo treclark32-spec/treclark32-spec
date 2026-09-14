@@ -33,3 +33,5 @@ I'm always trying to improve my coding skills and learning new things.
 ## Fun Fact
 
 I’m a college student who enjoys football, Anime, and Designing clothes.
+
+I'm continuing to build my cybersecurity skills.
