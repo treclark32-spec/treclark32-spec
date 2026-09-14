@@ -9,4 +9,9 @@ I'm a Computer Science student interested in Cybersecurity.
 - CSS
 - Problem Solving
 - Cybersecurity
--->
+
+## Currently Learning
+
+- Programming
+- Web Development
+- Modern Technologies
