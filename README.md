@@ -15,3 +15,7 @@ I'm a Computer Science student interested in Cybersecurity.
 - Programming
 - Web Development
 - Modern Technologies
+
+## Career Goal
+
+My goal is to become a Cyber Security Analyst.
