@@ -1,6 +1,10 @@
 # Hi, I'm Halbert
 
+<<<<<<< HEAD
 I'm a Computer Science student building cybersecurity skills.
+=======
+I'm a Computer Science student focused in Cybersecurity.
+>>>>>>> d40aceb0b749481013459e1a43605b4312f3c8ac
 
 ## Skills
 
