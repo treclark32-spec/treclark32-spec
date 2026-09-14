@@ -24,3 +24,12 @@ My goal is to become a Cyber Security Analyst.
 
 - GitHub: https://github.com/treclark32-spec
 - Email: treclark32@gmail.com
+
+## About Me
+
+I enjoy learning about technology and cybersecurity. 
+I'm always trying to improve my coding skills and learning new things.
+
+## Fun Fact
+
+I’m a college student who enjoys football, Anime, and Designing clothes.
