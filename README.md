@@ -1,6 +1,6 @@
 # Hi, I'm Halbert
 
-I'm a Computer Science student interested in Cybersecurity.
+I'm a Computer Science student building cybersecurity skills.
 
 ## Skills
 
